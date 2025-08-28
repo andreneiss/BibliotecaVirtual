@@ -37,7 +37,7 @@ biblioteca-virtual/
 ## 📸 Capturas de Tela
 
 ### Página Principal
-![Página Principal](img/Captura de tela 2025-08-28 172131.png)
+![Página Principal](bibliotecajs\Captura de tela 2025-08-28 172131.png)
 
 ### Listar Livros
 ![Listar Livros](img/Captura de tela 2025-08-28 172152.png)
@@ -49,7 +49,7 @@ biblioteca-virtual/
 ![Gerar Relatório](img/Captura de tela 2025-08-28 172218.png)
 
 ### Excluir Livros
-![Excluir Livros](img/Captura de tela 2025-08-28 172240.png)
+![Excluir Livros](Captura de tela 2025-08-28 172240.png)
 
 ---
 
