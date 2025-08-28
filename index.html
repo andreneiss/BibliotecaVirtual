@@ -7,9 +7,9 @@
 </head>
 <body>
     <div class="container">
-        <h1>📚 Biblioteca Virtual</h1>
+        <h1> Biblioteca Virtual</h1>
 
-        <!-- Formulário de cadastro -->
+   
         <section>
             <h2>Cadastrar Livro</h2>
             <input type="text" id="titulo" placeholder="Título">
@@ -24,24 +24,24 @@
             )">Cadastrar</button>
         </section>
 
-        <!-- Botões de operações -->
+        
         <section>
             <h2>Operações</h2>
-            <button onclick="mostrarResultado(executarAcao('listar'))">📋 Listar Livros</button>
-            <button onclick="mostrarResultado(executarAcao('total'))">🔢 Total de Livros</button>
-            <button onclick="mostrarResultado(executarAcao('relatorio'))">📑 Gerar Relatório</button>
+            <button onclick="mostrarResultado(executarAcao('listar'))"> Listar Livros</button>
+            <button onclick="mostrarResultado(executarAcao('total'))"> Total de Livros</button>
+            <button onclick="mostrarResultado(executarAcao('relatorio'))"> Gerar Relatório</button>
         </section>
 
-        <!-- Excluir -->
+     
         <section>
             <h2>Excluir Livro</h2>
             <input type="text" id="tituloExcluir" placeholder="Título do livro">
             <button onclick="mostrarResultado(executarAcao('excluir',
                 document.getElementById('tituloExcluir').value
-            ))">❌ Excluir</button>
+            ))"> Excluir</button>
         </section>
 
-        <!-- Resultado -->
+       
         <section>
             <h2>Resultado</h2>
             <pre id="saida"></pre>
