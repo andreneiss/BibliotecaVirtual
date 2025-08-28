@@ -36,22 +36,20 @@ biblioteca-virtual/
 
 ## 📸 Capturas de Tela
 
-### Página Principal
-![Página Principal](BibliotecaVirtual
-/Captura de tela 2025-08-28 172131.png
-)
+### 📌 Página Principal
+![Página Principal](Captura%20de%20tela%202025-08-28%20172131.png)
 
-### Listar Livros
-![Listar Livros](img/Captura de tela 2025-08-28 172152.png)
+### 📋 Listar Livros
+![Listar Livros](Captura%20de%20tela%202025-08-28%20172152.png)
 
-### Total de Livros
-![Total de Livros](img/Captura de tela 2025-08-28 172204.png)
+### 🔢 Total de Livros
+![Total de Livros](Captura%20de%20tela%202025-08-28%20172204.png)
 
-### Gerar Relatório
-![Gerar Relatório](img/Captura de tela 2025-08-28 172218.png)
+### 📑 Gerar Relatório
+![Gerar Relatório](Captura%20de%20tela%202025-08-28%20172218.png)
 
-### Excluir Livros
-![Excluir Livros](Captura de tela 2025-08-28 172240.png)
+### ❌ Excluir Livros
+![Excluir Livros](Captura%20de%20tela%202025-08-28%20172240.png)
 
 ---
 
