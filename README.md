@@ -34,6 +34,25 @@ biblioteca-virtual/
 
 ---
 
+## 📸 Capturas de Tela
+
+### Página Principal
+![Página Principal](img/Captura de tela 2025-08-28 172131.png)
+
+### Listar Livros
+![Listar Livros](img/Captura de tela 2025-08-28 172152.png)
+
+### Total de Livros
+![Total de Livros](img/Captura de tela 2025-08-28 172204.png)
+
+### Gerar Relatório
+![Gerar Relatório](img/Captura de tela 2025-08-28 172218.png)
+
+### Excluir Livros
+![Excluir Livros](img/Captura de tela 2025-08-28 172240.png)
+
+---
+
 ## 💻 Como Executar
 
 1. Baixe o projeto ou clone o repositório:
@@ -63,13 +82,6 @@ git clone https://github.com/SEU_USUARIO/biblioteca-virtual.git
 - Layout simples e responsivo.
 - Botões com hover.
 - Resultado exibido em `<pre>` para manter formatação.
-
----
-
-## 🔗 Links
-
-- GitHub: [Seu Repositório](https://github.com/SEU_USUARIO/biblioteca-virtual)
-- Navegador: abra `index.html` localmente.
 
 ---
 
