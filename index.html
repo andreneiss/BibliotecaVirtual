@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Biblioteca Virtual</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📚 Biblioteca Virtual</h1>
+
+        <!-- Formulário de cadastro -->
+        <section>
+            <h2>Cadastrar Livro</h2>
+            <input type="text" id="titulo" placeholder="Título">
+            <input type="text" id="autor" placeholder="Autor">
+            <input type="number" id="ano" placeholder="Ano">
+            <input type="number" id="quantidade" placeholder="Quantidade">
+            <button onclick="executarAcao('cadastrar',
+                document.getElementById('titulo').value,
+                document.getElementById('autor').value,
+                document.getElementById('ano').value,
+                document.getElementById('quantidade').value
+            )">Cadastrar</button>
+        </section>
+
+        <!-- Botões de operações -->
+        <section>
+            <h2>Operações</h2>
+            <button onclick="mostrarResultado(executarAcao('listar'))">📋 Listar Livros</button>
+            <button onclick="mostrarResultado(executarAcao('total'))">🔢 Total de Livros</button>
+            <button onclick="mostrarResultado(executarAcao('relatorio'))">📑 Gerar Relatório</button>
+        </section>
+
+        <!-- Excluir -->
+        <section>
+            <h2>Excluir Livro</h2>
+            <input type="text" id="tituloExcluir" placeholder="Título do livro">
+            <button onclick="mostrarResultado(executarAcao('excluir',
+                document.getElementById('tituloExcluir').value
+            ))">❌ Excluir</button>
+        </section>
+
+        <!-- Resultado -->
+        <section>
+            <h2>Resultado</h2>
+            <pre id="saida"></pre>
+        </section>
+    </div>
+
+    <script type="module" src="main.js"></script>
+    <script>
+        function mostrarResultado(texto) {
+            document.getElementById("saida").textContent = texto;
+        }
+    </script>
+</body>
+</html>
