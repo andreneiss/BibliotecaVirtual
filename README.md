@@ -83,4 +83,3 @@ git clone https://github.com/SEU_USUARIO/biblioteca-virtual.git
 - Botões com hover.
 - Resultado exibido em `<pre>` para manter formatação.
 
----
