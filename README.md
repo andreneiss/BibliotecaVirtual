@@ -1,6 +1,6 @@
 # 📚 Biblioteca Virtual
 
-Este é um projeto de **Biblioteca Virtual** desenvolvido em **HTML, CSS e JavaScript (ES Modules)**.  
+Este é um projeto de **Biblioteca Virtual** desenvolvido em **HTML, CSS e JavaScript**.  
 Permite cadastrar livros, listar todos os livros, calcular o total de exemplares, gerar relatórios e excluir livros por título.  
 
 O projeto foi desenvolvido para prática de **manipulação de DOM**, **módulos JavaScript** e **interatividade com o usuário**.
@@ -84,7 +84,3 @@ git clone https://github.com/SEU_USUARIO/biblioteca-virtual.git
 - Resultado exibido em `<pre>` para manter formatação.
 
 ---
-
-## 📝 Licença
-
-Este projeto está licenciado sob a MIT License.
